@@ -1,21 +1,20 @@
-# fe-w5
+## 后端开源地址
 
-> A Vue.js project
+https://github.com/w5teams/w5
 
-## Build Setup
+## 什么是 W5 SOAR?
 
-``` bash
-# install dependencies
-npm install
+**W5** 是一款基于 **Python** 开发的安全编排与自动化响应平台，为了企业安全做出了精心的打造，无需编写代码即可实现自动化响应流程，可节约企业 **80%** 的成本。
 
-# serve with hot reload at localhost:8080
-npm run dev
+- **无代码** : 无需编写代码，即可让企业内部人员快速实现事件响应。
 
-# build for production with minification
-npm run build
+- **扩展强** : 提供插件模块，可以扩展让所有的应用平台集成 **W5** 自身插件
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
+- **自动化** : 提供 `Webhook`、`Mail`、`用户输入`、`API` 等入口，无需人工即可实现全部流程
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## 如何使用
+
+- **官网**：https://w5.io
+- **文档**：https://w5.io/help/  (文档有完整的教程)
+- **Github**: https://github.com/w5teams/w5 (感觉项目好的请来个 Star)
+
